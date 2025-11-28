@@ -5,13 +5,13 @@ I'm an MSc Data Science & AI student passionate about **Machine Learning**, **De
 
 ### 🎓 Education
 - **MSc Data Science & AI** (3rd Semester) - Currently pursuing
-- **UGC NET Preparation** - Computer Science
+  
 - Strong foundation in AI, ML algorithms, and cloud technologies
 
 ### 💻 Technical Skills
 
 **Programming Languages:**
-- Python | SQL | C | JavaScript
+- Python | SQL | C | R
 
 **Data Science & ML:**
 - Machine Learning (Supervised & Unsupervised)
@@ -53,8 +53,6 @@ I'm an MSc Data Science & AI student passionate about **Machine Learning**, **De
 ### 📚 Learning & Growth
 I'm actively engaged in:
 - Competitive problem-solving on LeetCode
-- Building portfolio projects from scratch
-- Pursuing Microsoft Azure certifications (AZ-900, AI-900, DP-900)
 - Exploring remote internship opportunities
 - Contributing to open-source projects
 
@@ -73,7 +71,7 @@ I'm interested in:
 
 ### 📞 Connect With Me
 - **LinkedIn:** [Chirag Chandel](https://www.linkedin.com/in/chirag-chandel-176aa6289/)
-- **Email:** Available upon request
+- **Email:** ck9805357038@gmail.com
 - **Open to:** Internships, freelance projects, collaborations
 
 ### 🌟 What I Believe In
