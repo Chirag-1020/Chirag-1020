@@ -1,14 +1,14 @@
-# Hi there, I'm Chirag! 👋
+# Hi there, I'm Chirag! 
 
 ## About Me
 I'm an MSc Data Science & AI student passionate about **Machine Learning**, **Deep Learning**, and **Cybersecurity**. I'm committed to building intelligent solutions that solve real-world problems and exploring the intersection of AI and security.
 
-### 🎓 Education
+###  Education
 - **MSc Data Science & AI** (3rd Semester) - Currently pursuing
   
 - Strong foundation in AI, ML algorithms, and cloud technologies
 
-### 💻 Technical Skills
+###  Technical Skills
 
 **Programming Languages:**
 - Python | SQL | C | R
@@ -29,7 +29,7 @@ I'm an MSc Data Science & AI student passionate about **Machine Learning**, **De
 - Google Colab | Jupyter Notebooks
 - Git & GitHub
 
-### 🚀 Key Projects
+###  Key Projects
 
 **1. Phishing Website Detection**
 - Deep learning-based detection system
@@ -43,20 +43,20 @@ I'm an MSc Data Science & AI student passionate about **Machine Learning**, **De
 - Interactive Streamlit application
 - Real-time data analysis and insights
 
-### 🎯 Current Focus
+###  Current Focus
 - Advanced Deep Learning techniques
 - Cybersecurity & Network Defense
 - Building real-world AI applications
 - Data visualization and dashboard development
 - ETL and data pipeline creation
 
-### 📚 Learning & Growth
+###  Learning & Growth
 I'm actively engaged in:
 - Competitive problem-solving on LeetCode
 - Exploring remote internship opportunities
 - Contributing to open-source projects
 
-### 🤝 Collaboration & Opportunities
+###  Collaboration & Opportunities
 I'm interested in:
 - Data Science & AI internships
 - Machine Learning projects
@@ -64,19 +64,19 @@ I'm interested in:
 - Full-stack development collaborations
 - Knowledge sharing and mentoring
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 - **54 Contributions** in the last year
 - **12 Repositories** showcasing diverse skills
 - Focus on ML, Data Science, and Security projects
 
-### 📞 Connect With Me
+###  Connect With Me
 - **LinkedIn:** [Chirag Chandel](https://www.linkedin.com/in/chirag-chandel-176aa6289/)
 - **Email:** ck9805357038@gmail.com
 - **Open to:** Internships, freelance projects, collaborations
 
-### 🌟 What I Believe In
+###  What I Believe In
 > "Technology is most powerful when it serves humanity. I'm committed to building ethical AI solutions that make a positive impact."
 
 ---
 
-**Let's build something amazing together!** 🚀
+**Let's build something amazing together!** 
